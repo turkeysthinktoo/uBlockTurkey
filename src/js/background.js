@@ -117,7 +117,6 @@ const userSettingsDefault = {
 };
 
 const dynamicFilteringDefault = [
-    '* * 3p-frame block'
     'no-csp-reports * true'
     'behind-the-scene * * noop',
     'behind-the-scene * image noop',
