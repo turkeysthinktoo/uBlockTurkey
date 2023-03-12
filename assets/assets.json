@@ -39,7 +39,7 @@
 	},
 	"Web-Annoyances-Ultralist": {
 		"content": "filters",
-		"group": "OOTB Turkey Filters",
+		"group": "default",
 		"title": "Web Annoyances Ultralist",
 		"contentURL": [
 			"https://github.com/yourduskquibbles/webannoyances/blob/master/ultralist.txt"
