@@ -37,6 +37,15 @@
 			"https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/badlists.txt"
 		]
 	},
+	"Web-Annoyances-Ultralist": {
+		"content": "filters"
+		"group": "TurkeysOOTBFilters"
+		"title": "Web Annoyances Ultralist"
+		"contentURL": [
+			"https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt"
+		]
+		"supportURL": "https://github.com/yourduskquibbles/webannoyances"
+	},
 	"ublock-filters": {
 		"content": "filters",
 		"group": "default",
