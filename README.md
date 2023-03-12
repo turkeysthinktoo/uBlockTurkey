@@ -24,7 +24,7 @@ uBlock Origin (uBO)
 
 ***
 
-uBO is **NOT** an "ad blocker"; it is a [wide-spectrum content blocker][Blocking] for Chromium and Firefox with CPU and memory efficiency as primary features. After a new installation, the default behavior of uBO is to block ads, trackers, and malware sites through [EasyList][EasyList], [EasyPrivacy][EasyPrivacy], [Peter Lowe's Blocklist][Peter Lowe's Blocklist], [Online Malicious URL Blocklist][Malicious Blocklist], and uBO's [filter lists][uBO Filters].You can also improve your internet experience with other filters that come with this fork.
+uBO is **NOT** an "ad blocker"; it is a [wide-spectrum content blocker][Blocking] for Chromium and Firefox with CPU and memory efficiency as primary features. After a new installation, the default behavior of uBO is to block ads, trackers, and malware sites through [EasyList][EasyList], [EasyPrivacy][EasyPrivacy], [Peter Lowe's Blocklist][Peter Lowe's Blocklist], [Online Malicious URL Blocklist][Malicious Blocklist], and uBO's [filter lists][uBO Filters]. You can also improve your internet experience with other filters that come with this fork.
 
 ***
 
