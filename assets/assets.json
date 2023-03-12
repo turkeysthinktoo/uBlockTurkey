@@ -42,7 +42,7 @@
 		"group": "TurkeysOOTBFilters"
 		"title": "Web Annoyances Ultralist"
 		"contentURL": [
-			"https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt"
+			"https://github.com/yourduskquibbles/webannoyances/blob/master/ultralist.txt"
 		]
 		"cdnURLS": [https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 		],
