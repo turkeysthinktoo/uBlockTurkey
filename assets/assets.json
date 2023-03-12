@@ -44,7 +44,10 @@
 		"contentURL": [
 			"https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt"
 		]
+		"cdnURLS": [https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+		],
 		"supportURL": "https://github.com/yourduskquibbles/webannoyances"
+		
 	},
 	"ublock-filters": {
 		"content": "filters",
