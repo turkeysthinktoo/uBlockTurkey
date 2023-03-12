@@ -10,13 +10,14 @@ uBlock Origin (uBO)
 </h1>
 <p align="center">
 <sub><a href="https://github.com/gorhill/uBlock/wiki/uBlock-Origin-is-completely-unrelated-to-the-web-site-ublock.org"><b>BEWARE!</b> uBO is (and has always been) COMPLETELY UNRELATED to the website <code>ublock.org</code></a>.</sub>
+<p align="center">
 <sub><a href="https://github.com/gorhill/uBlock"><b>BEWARE!</b> This fork is (and has always been) COMPLETELY UNRELATED to the original uBlock Origin project</a>.</sub>
 </p>
 
 ***
 
 <p align="center">
-<a href="https://github.com/turkeysthinktoo/uBlockTurkey/releases"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3232747/github-full-icon-size_512.png" alt="Check the releases section to download the addon"></a>
+<a href="https://github.com/turkeysthinktoo/uBlockTurkey/releases"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3232747/github-full-icon-size_128.png" alt="Check the releases section to download the addon"></a>
 </p>
 
 ***
