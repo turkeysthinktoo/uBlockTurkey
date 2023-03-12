@@ -1,10 +1,4 @@
-[![Badge Commits]][Commit Rate]
-[![Badge Issues]][Issues]
-[![Badge Localization]][Crowdin]
-[![Badge License]][License]
-[![Badge NPM]][NPM]
-[![Badge Mozilla]][Mozilla]
-[![Badge Chrome]][Chrome]
+
 
 ***
 
@@ -16,20 +10,18 @@ uBlock Origin (uBO)
 </h1>
 <p align="center">
 <sub><a href="https://github.com/gorhill/uBlock/wiki/uBlock-Origin-is-completely-unrelated-to-the-web-site-ublock.org"><b>BEWARE!</b> uBO is (and has always been) COMPLETELY UNRELATED to the website <code>ublock.org</code></a>.</sub>
+<sub><a href="https://github.com/gorhill/uBlock"><b>BEWARE!</b> This fork is (and has always been) COMPLETELY UNRELATED to the original uBlock Origin project</a>.</sub>
 </p>
 
 ***
 
 <p align="center">
-<a href="https://addons.mozilla.org/addon/ublock-origin/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get uBlock Origin for Firefox"></a>
-<a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get uBlock Origin for Chromium"></a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get uBlock Origin for Microsoft Edge"></a>
-<a href="https://addons.opera.com/extensions/details/ublock/"><img src="https://user-images.githubusercontent.com/585534/107280692-ac7b5f00-6a26-11eb-85c7-088926504452.png" alt="Get uBlock Origin for Opera"></a>
+<a href="https://github.com/turkeysthinktoo/uBlockTurkey/releases"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3232747/github-full-icon-size_512.png" alt="Check the releases section to download the addon"></a>
 </p>
 
 ***
 
-uBO is **NOT** an "ad blocker"; it is a [wide-spectrum content blocker][Blocking] for Chromium and Firefox with CPU and memory efficiency as primary features. After a new installation, the default behavior of uBO is to block ads, trackers, and malware sites through [EasyList][EasyList], [EasyPrivacy][EasyPrivacy], [Peter Lowe's Blocklist][Peter Lowe's Blocklist], [Online Malicious URL Blocklist][Malicious Blocklist], and uBO's [filter lists][uBO Filters].
+uBO is **NOT** an "ad blocker"; it is a [wide-spectrum content blocker][Blocking] for Chromium and Firefox with CPU and memory efficiency as primary features. After a new installation, the default behavior of uBO is to block ads, trackers, and malware sites through [EasyList][EasyList], [EasyPrivacy][EasyPrivacy], [Peter Lowe's Blocklist][Peter Lowe's Blocklist], [Online Malicious URL Blocklist][Malicious Blocklist], and uBO's [filter lists][uBO Filters].You can also improve your internet experience with other filters that come with this fork.
 
 ***
 
@@ -71,39 +63,15 @@ Once you install uBO, you may easily unselect any preselected filter lists if yo
 
 [Required Permissions][Permissions]
 
-#### Chromium
-
-[Chrome Web Store][Chrome]
-
-[Microsoft Edge Add-ons][Edge] (Published by: [Nicole Rolls][Nicole Rolls])
-
-[Opera Add-ons][Opera]
-
-[Development Build][Chrome Dev]
-
-uBO should be compatible with any Chromium-based browser.
-
-#### Firefox / Firefox for Android
-
-[Firefox Add-ons][Mozilla]
-
-[Development Build][Beta]
-
 #### All Browsers
 
 Do **NOT** use any other content blocker concurrently with uBO to benefit from its higher efficiency. uBO will [perform][Performance] as well as or better than most of the other popular ad blockers. Other blockers can prevent uBO's privacy or anti-blocker-defusing features from working correctly.
 
 Do **NOT** use uBO along with other [similarly-purposed blockers][Similarly-Purposed].
 
-[Manual Installation][Manual Installation]
-
 #### Enterprise Deployment
 
 [Deploying uBO][Deployment]
-
-## Release History
-
-[Releases Page][Releases]
 
 ## About
 
@@ -111,7 +79,9 @@ Do **NOT** use uBO along with other [similarly-purposed blockers][Similarly-Purp
 
 Free. Open-source. For users by users. No donations sought.
 
-Without the preset filter lists, this extension is nothing. If you ever want to contribute something, think about the people working hard to maintain the filter lists you are using, which were made available to use by all for free.
+Note from the original developer: Without the preset filter lists, this extension is nothing. If you ever want to contribute something, think about the people working hard to maintain the filter lists you are using, which were made available to use by all for free.
+
+My note: I am not the original developer of this extension and all the work belongs to the original developer.
 
 You can help contribute by translating uBO on [Crowdin].
 
