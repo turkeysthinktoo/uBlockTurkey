@@ -63,6 +63,30 @@
 		],
 		"supportURL": "https://www.i-dont-care-about-cookies.eu/"
 	},
+	"Actually-Legitimate-URL-Shortener-Tool": {
+		"content": "filters",
+		"group": "privacy",
+		"title": "➗ Actually Legitimate URL Shortener Tool",
+		"contentURL": [
+			"https://github.com/DandelionSprout/adfilt"
+		],
+		"cdnURLS": [
+			"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt"
+		],
+		"supportURL": "https://github.com/DandelionSprout/adfilt"
+	},
+	"ClearURLs-for-uBo-(unofficial)": {
+		"content": "filters",
+		"group": "privacy",
+		"title": "ClearURLs for uBo (unofficial)",
+		"contentURL": [
+			"https://github.com/DandelionSprout/adfilt"
+		],
+		"cdnURLS": [
+			"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt"
+		],
+		"supportURL": "https://github.com/DandelionSprout/adfilt"
+	},
 	"ublock-filters": {
 		"content": "filters",
 		"group": "default",
@@ -166,7 +190,7 @@
 	"adguard-generic": {
 		"content": "filters",
 		"group": "ads",
-		"off": true,
+		"off": false,
 		"title": "AdGuard Base",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
 		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
