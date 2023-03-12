@@ -30,9 +30,6 @@ uBO is **NOT** an "ad blocker"; it is a [wide-spectrum content blocker][Blocking
 
 * [Documentation](#documentation)
 * [General Information](#general-information)
-* [Installation](#installation)
-  * [Chromium](#chromium)
-  * [Firefox / Firefox for Android](#firefox--firefox-for-android)
 * [Release History](#release-history)
 * [About](#about)
 * [License](#license)
