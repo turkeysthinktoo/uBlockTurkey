@@ -101,7 +101,7 @@ const userSettingsDefault = {
     uiAccentCustom0: '#aca0f7',
     uiTheme: 'dark',
     externalLists: '',
-    firewallPaneMinimized: false,
+    firewallPaneMinimized: true,
     hyperlinkAuditingDisabled: true,
     ignoreGenericCosmeticFilters: vAPI.webextFlavor.soup.has('mobile'),
     importedLists: [],
@@ -117,7 +117,6 @@ const userSettingsDefault = {
 };
 
 const dynamicFilteringDefault = [
-    'no-csp-reports * true'
     'behind-the-scene * * noop',
     'behind-the-scene * image noop',
     'behind-the-scene * 3p noop',
