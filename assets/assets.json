@@ -38,19 +38,18 @@
 		]
 	},
 	"Web-Annoyances-Ultralist": {
-		"content": "filters"
-		"group": "default"
-		"title": "Web Annoyances Ultralist"
+		"content": "filters",
+		"group": "OOTB Turkey Filters",
+		"title": "Web Annoyances Ultralist",
 		"contentURL": [
 			"https://github.com/yourduskquibbles/webannoyances/blob/master/ultralist.txt"
-		]
+		],
 		"cdnURLS": [
 			"https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt",
 			"https://cdn.jsdelivr.net/gh/yourduskquibbles/webannoyances/ultralist.txt",
 			"https://cdn.staticaly.com/gh/yourduskquibbles/webannoyances/master/ultralist.txt"
 		],
 		"supportURL": "https://github.com/yourduskquibbles/webannoyances"
-		
 	},
 	"ublock-filters": {
 		"content": "filters",
