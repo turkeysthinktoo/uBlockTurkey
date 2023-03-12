@@ -189,7 +189,7 @@
 	"adguard-spyware-url": {
 		"content": "filters",
 		"group": "privacy",
-		"off": true,
+		"off": false,
 		"title": "AdGuard URL Tracking Protection",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/17.txt",
 		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
@@ -198,7 +198,7 @@
 	"block-lan": {
 		"content": "filters",
 		"group": "privacy",
-		"off": true,
+		"off": false,
 		"title": "Block Outsider Intrusion into LAN",
 		"contentURL": "https://ublockorigin.github.io/uAssets/filters/lan-block.txt",
 		"cdnURLs": [
@@ -243,7 +243,7 @@
 	"curben-phishing": {
 		"content": "filters",
 		"group": "malware",
-		"off": true,
+		"off": false,
 		"title": "Phishing URL Blocklist",
 		"contentURL": "https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt",
 		"cdnURLs": [
@@ -256,7 +256,7 @@
 	"curben-pup": {
 		"content": "filters",
 		"group": "malware",
-		"off": true,
+		"off": false,
 		"title": "PUP Domains Blocklist",
 		"contentURL": "https://malware-filter.gitlab.io/malware-filter/pup-filter.txt",
 		"cdnURLs": [
@@ -269,7 +269,7 @@
 	"adguard-annoyance": {
 		"content": "filters",
 		"group": "social",
-		"off": true,
+		"off": false,
 		"title": "AdGuard Annoyances",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/14.txt",
 		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
@@ -278,7 +278,7 @@
 	"adguard-social": {
 		"content": "filters",
 		"group": "social",
-		"off": true,
+		"off": false,
 		"title": "AdGuard Social Media",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/4.txt",
 		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
@@ -287,7 +287,7 @@
 	"fanboy-thirdparty_social": {
 		"content": "filters",
 		"group": "social",
-		"off": true,
+		"off": false,
 		"title": "Anti-Facebook",
 		"contentURL": "https://secure.fanboy.co.nz/fanboy-antifacebook.txt",
 		"supportURL": "https://github.com/ryanbr/fanboy-adblock/issues"
@@ -295,7 +295,7 @@
 	"fanboy-annoyance": {
 		"content": "filters",
 		"group": "social",
-		"off": true,
+		"off": false,
 		"title": "Fanboy’s Annoyance",
 		"contentURL": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
 		"supportURL": "https://easylist.to/"
@@ -303,7 +303,7 @@
 	"fanboy-cookiemonster": {
 		"content": "filters",
 		"group": "social",
-		"off": true,
+		"off": false,
 		"title": "EasyList Cookie",
 		"contentURL": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
 		"supportURL": "https://github.com/easylist/easylist/issues"
@@ -311,7 +311,7 @@
 	"fanboy-social": {
 		"content": "filters",
 		"group": "social",
-		"off": true,
+		"off": false,
 		"title": "Fanboy’s Social",
 		"contentURL": [
 			"https://easylist.to/easylist/fanboy-social.txt",
@@ -323,7 +323,7 @@
 		"content": "filters",
 		"group": "social",
 		"title": "uBlock filters – Annoyances",
-		"off": true,
+		"off": false,
 		"contentURL": "https://ublockorigin.github.io/uAssets/filters/annoyances.txt",
 		"cdnURLs": [
 			"https://ublockorigin.github.io/uAssetsCDN/filters/annoyances.txt",
@@ -337,7 +337,7 @@
 		"content": "filters",
 		"group": "multipurpose",
 		"updateAfter": 11,
-		"off": true,
+		"off": false,
 		"title": "Dan Pollock’s hosts file",
 		"contentURL": "https://someonewhocares.org/hosts/hosts",
 		"supportURL": "https://someonewhocares.org/hosts/"
