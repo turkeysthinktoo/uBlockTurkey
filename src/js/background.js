@@ -49,7 +49,7 @@ const hiddenSettingsDefault = {
     assetFetchTimeout: 30,
     autoCommentFilterTemplate: '{{date}} {{origin}}',
     autoUpdateAssetFetchPeriod: 60,
-    autoUpdateDelayAfterLaunch: 105,
+    autoUpdateDelayAfterLaunch: 0,
     autoUpdatePeriod: 4,
     benchmarkDatasetURL: 'unset',
     blockingProfiles: '11111/#F00 11010/#C0F 11001/#00F 00001',
@@ -112,18 +112,12 @@ const userSettingsDefault = {
     requestLogMaxEntries: 1000,
     showIconBadge: true,
     suspendUntilListsAreLoaded: vAPI.Net.canSuspend(),
-    tooltipsDisabled: true,
+    tooltipsDisabled: false,
     webrtcIPAddressHidden: false,
 };
 
 const dynamicFilteringDefault = [
-    'behind-the-scene * * noop',
-    'behind-the-scene * image noop',
-    'behind-the-scene * 3p noop',
-    'behind-the-scene * inline-script noop',
-    'behind-the-scene * 1p-script noop',
-    'behind-the-scene * 3p-script noop',
-    'behind-the-scene * 3p-frame noop',
+    
 ];
 
 const hostnameSwitchesDefault = [
