@@ -39,7 +39,7 @@
 	},
 	"Web-Annoyances-Ultralist": {
 		"content": "filters",
-		"group": "default",
+		"group": "social",
 		"title": "Web Annoyances Ultralist",
 		"contentURL": [
 			"https://github.com/yourduskquibbles/webannoyances/blob/master/ultralist.txt"
@@ -50,6 +50,18 @@
 			"https://cdn.staticaly.com/gh/yourduskquibbles/webannoyances/master/ultralist.txt"
 		],
 		"supportURL": "https://github.com/yourduskquibbles/webannoyances"
+	},
+	"I-Don't-Care-About-Cookies": {
+		"content": "filters",
+		"group": "social",
+		"title": "I Don't Care About Cookies",
+		"contentURL": [
+			"https://www.i-dont-care-about-cookies.eu/"
+		],
+		"cdnURLS": [
+			"https://www.i-dont-care-about-cookies.eu/abp/"
+		],
+		"supportURL": "https://www.i-dont-care-about-cookies.eu/"
 	},
 	"ublock-filters": {
 		"content": "filters",
