@@ -89,7 +89,7 @@ const hiddenSettingsDefault = {
 };
 
 const userSettingsDefault = {
-    advancedUserEnabled: false,
+    advancedUserEnabled: true,
     alwaysDetachLogger: true,
     autoUpdate: true,
     cloudStorageEnabled: false,
@@ -99,9 +99,9 @@ const userSettingsDefault = {
     contextMenuEnabled: true,
     uiAccentCustom: false,
     uiAccentCustom0: '#aca0f7',
-    uiTheme: 'auto',
+    uiTheme: 'dark',
     externalLists: '',
-    firewallPaneMinimized: true,
+    firewallPaneMinimized: false,
     hyperlinkAuditingDisabled: true,
     ignoreGenericCosmeticFilters: vAPI.webextFlavor.soup.has('mobile'),
     importedLists: [],
@@ -112,11 +112,13 @@ const userSettingsDefault = {
     requestLogMaxEntries: 1000,
     showIconBadge: true,
     suspendUntilListsAreLoaded: vAPI.Net.canSuspend(),
-    tooltipsDisabled: false,
+    tooltipsDisabled: true,
     webrtcIPAddressHidden: false,
 };
 
 const dynamicFilteringDefault = [
+    '* * 3p-frame block'
+    'no-csp-reports * true'
     'behind-the-scene * * noop',
     'behind-the-scene * image noop',
     'behind-the-scene * 3p noop',
